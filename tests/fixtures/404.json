@@ -1,0 +1,10 @@
+{
+  "subsonic-response": {
+    "error": {
+      "code": 0, 
+      "message": "Unknown method"
+    }, 
+    "status": "failed", 
+    "version": "1.9.0"
+  }
+}
